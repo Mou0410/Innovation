@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="My Idea" section_id="450bfd56dbc50010bd8964d74896199e" sys_domain="global" table="x_424747_innovate_innovate" version="3" view="Advance">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>0</position>
+            <sys_created_by>Moumita</sys_created_by>
+            <sys_created_on>2019-11-13 12:45:03</sys_created_on>
+            <sys_id>990bfd56dbc50010bd8964d7489619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_424747_innovate_innovate" sys_domain="global" view="410bfd56dbc50010bd8964d74896199a">450bfd56dbc50010bd8964d74896199e</sys_ui_section>
+            <sys_updated_by>Moumita</sys_updated_by>
+            <sys_updated_on>2019-11-13 12:45:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>My Idea</caption>
+            <header>false</header>
+            <name>x_424747_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Moumita</sys_created_by>
+            <sys_created_on>2019-11-13 12:45:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>450bfd56dbc50010bd8964d74896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My Idea</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_424747_innovate">52249d9edb050010bd8964d748961934</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">52249d9edb050010bd8964d748961934</sys_scope>
+            <sys_update_name>sys_ui_section_450bfd56dbc50010bd8964d74896199e</sys_update_name>
+            <sys_updated_by>Moumita</sys_updated_by>
+            <sys_updated_on>2019-11-13 12:45:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advance" name="Advance">410bfd56dbc50010bd8964d74896199a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
